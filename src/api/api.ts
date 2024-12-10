@@ -17,7 +17,7 @@ class ApiService {
     private async sendHttpRequest<T>(endpoint: string, config: RequestInit): Promise<T> {
         const url = `${this.baseUrl}${endpoint}`;
         const headers = { ...this.defaultHeaders, ...config.headers };
-
+        
         const res = await fetch(url, { ...config, headers });
         const resData = await res.json();
 
