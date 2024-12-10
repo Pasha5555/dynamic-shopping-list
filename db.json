@@ -1,0 +1,131 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "name": "Apple",
+      "category": "fruits",
+      "price": "8.99",
+      "quantity": 1,
+      "isPurchased": false,
+      "image": "images/apple.jpg"
+    },
+    {
+      "id": "p2",
+      "name": "Banana",
+      "category": "fruits",
+      "price": "12.99",
+      "quantity": 2,
+      "isPurchased": false,
+      "image": "images/banana.jpg"
+    },
+    {
+      "id": "p3",
+      "name": "Orange",
+      "category": "fruits",
+      "price": "7.99",
+      "quantity": 1,
+      "isPurchased": false,
+      "image": "images/orange.jpg"
+    },
+    {
+      "id": "p4",
+      "name": "Pear",
+      "category": "fruits",
+      "price": "10.99",
+      "quantity": 1,
+      "isPurchased": false,
+      "image": "images/pear.jpg"
+    },
+    {
+      "id": "p5",
+      "name": "Kiwi",
+      "category": "fruits",
+      "price": "12.99",
+      "quantity": 1,
+      "isPurchased": false,
+      "image": "images/kiwi.jpg"
+    },
+    {
+      "id": "p7",
+      "name": "Milk",
+      "category": "dairy",
+      "price": "11.99",
+      "quantity": 1,
+      "isPurchased": false,
+      "image": "images/milk.jpg"
+    },
+    {
+      "id": "p8",
+      "name": "Eggs",
+      "category": "dairy",
+      "price": "11.99",
+      "quantity": 1,
+      "isPurchased": false,
+      "image": "images/eggs.jpg"
+    },
+    {
+      "id": "p9",
+      "name": "Cheese",
+      "category": "dairy",
+      "price": "11.99",
+      "quantity": 1,
+      "isPurchased": false,
+      "image": "images/cheese.jpg"
+    },
+    {
+      "id": "p10",
+      "name": "Sour cream",
+      "category": "dairy",
+      "price": "11.99",
+      "quantity": 1,
+      "isPurchased": false,
+      "image": "images/sour-cream.jpg"
+    },
+    {
+      "id": "p11",
+      "name": "Yogurt",
+      "category": "dairy",
+      "price": "11.99",
+      "quantity": 1,
+      "isPurchased": false,
+      "image": "images/yogurt.jpg"
+    },
+    {
+      "id": "p12",
+      "name": "Tomato",
+      "category": "vegetables",
+      "price": "09.99",
+      "quantity": 1,
+      "isPurchased": false,
+      "image": "images/tomato.jpg"
+    },
+    {
+      "id": "p13",
+      "name": "Cucumber",
+      "category": "vegetables",
+      "price": "05.99",
+      "quantity": 1,
+      "isPurchased": false,
+      "image": "images/cucumber.jpg"
+    },
+    {
+      "id": "p14",
+      "name": "Onion",
+      "category": "vegetables",
+      "price": "06.99",
+      "quantity": 1,
+      "isPurchased": false,
+      "image": "images/onion.jpg"
+    },
+    {
+      "id": "p15",
+      "name": "Eggplant",
+      "category": "vegetables",
+      "price": "12.99",
+      "quantity": 1,
+      "isPurchased": false,
+      "image": "images/eggplant.jpg"
+    }
+  ],
+  "orders": []
+}
